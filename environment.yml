@@ -1,0 +1,17 @@
+name: convert_gas_tables
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - geopandas
+  
+  # HTML parsing
+  - beautifulsoup4
+  - html5lib
+  - lxml
+
+  # Notebook
+  - notebook
+  - ipykernel
