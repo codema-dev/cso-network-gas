@@ -17,7 +17,7 @@ Install [Anaconda or Miniconda](https://docs.conda.io/projects/conda/en/latest/u
 
 In your terminal run:
 ```bash
-conda create --file environment.yml 
+conda env create --file environment.yml 
 ```
 
-And run the `ipynb` file in either [`vscode`](https://code.visualstudio.com/) or [`Jupyter Notebook`](https://jupyter.org/)
+And open the `py` files in [`Jupyter Notebook`](https://jupyter.org/) or [`vscode`](https://code.visualstudio.com/) 
