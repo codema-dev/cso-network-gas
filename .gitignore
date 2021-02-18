@@ -134,3 +134,4 @@ dmypy.json
 # cso-network-gas specific
 data/*
 !data/.gitkeep
+*.ipynb

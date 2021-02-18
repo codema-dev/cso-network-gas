@@ -1,4 +1,4 @@
-name: convert_gas_tables
+name: cso-network-gas
 channels:
   - conda-forge
   - defaults
@@ -15,3 +15,4 @@ dependencies:
   # Notebook
   - notebook
   - ipykernel
+  - jupytext
